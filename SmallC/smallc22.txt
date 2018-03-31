@@ -1,0 +1,8 @@
+
+SMALLC22.ZIP
+TITLE: CONCURRENT SMALL C
+Keywords: AUG96    C   SMALL C    EMBEDDED SYSTEMS   CONCURRENCY
+Version 2.2 of (revision level 117) of the Small C the Small C 
+compiler and Small Assembler by James Hendrix. Requires 
+PKUNZIP.EXE to extract.
+
